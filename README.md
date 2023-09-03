@@ -2,8 +2,7 @@
 
 ### 📫 How To Reach Me:
 
-- Email: [](.com)
-- Telegram: [@](h)
+- Email: [bsv.6996@gmail.com](mailto:bsv.6996@gmail.com)
 
 ### 🛠 Programming languages
 
